@@ -1,13 +1,14 @@
-# MRGAN
+# Composite Evolutionary GAN for Natural Language Generation with Temper Control
 
-@inproceedings{sun2022mrgan,
-  title={MRGAN: Multi-Criteria Relational GAN for Lyrics-Conditional Melody Generation},
-  author={Sun, Fanglei and Tao, Qian and Yan, Jun and Hu, Jianqiao and Yang, Zongyuan},
-  booktitle={2022 International Joint Conference on Neural Networks (IJCNN)},
-  pages={1--8},
-  year={2022},
-  organization={IEEE}
-}
+@INPROCEEDINGS{9674611,  
+author={Sun, Fanglei and Tao, Qian and Hu, Jianqiao and Liu, Jieqiong},  
+booktitle={2021 7th International Conference on Computer and Communications (ICCC)},   
+title={Composite Evolutionary GAN for Natural Language Generation with Temper Control},   
+year={2021},  
+volume={},  
+number={},  
+pages={1710-1714},  
+doi={10.1109/ICCC54389.2021.9674611}}
 
 ## Requirements
 
